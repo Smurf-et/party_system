@@ -1,0 +1,19 @@
+{
+    "maxPartys": 4,
+    "maxPartyParticipants": 10,
+    "coordsLobbyPartyRed": {
+        "x": 297.9, 
+        "y": -882.8, 
+        "z": 29.25
+    },
+    "coordsLobbyPartyBlue": {
+        "x": 297.9, 
+        "y": -882.8, 
+        "z": 29.25
+    },
+    "coordsLobbyServer": {
+        "x": 297.9, 
+        "y": -882.8, 
+        "z": 29.25
+    }
+}
